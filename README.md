@@ -1,6 +1,6 @@
 # ar-Dialects-detection
 
-## Developing a classifier that can identify various Arabic Dialects.
+## Building a classifier that can identify various Arabic Dialects.
 
 
 
