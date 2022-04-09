@@ -5,13 +5,13 @@
 ### Steps
 #### Data exploring.
 #### Data Preprocessing
-##### Normalizing Arabic charaters and remove emojies
+#####   Normalizing Arabic charaters and remove emojies
 #### Vectorization
-##### testing Bow, TfIdf and aravec pre-trained
+#####   testing Bow, TfIdf and aravec pre-trained
 #### Modeling
-##### Building models based on different classifier.
+#####   Building models based on different classifier.
 #### Evaluation 
-##### Comparing the classifiers accurecies.
+#####   Comparing the classifiers accurecies.
 
 
 ### Source of Data: https://github.com/alielkassas/Teaching/tree/master/DataScience/projects/NLP
