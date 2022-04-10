@@ -1,6 +1,6 @@
 # ar-Dialects-detection
 
-## Building a model that can identify various Arabic Dialects.
+## Building a model that can identify Arabic Dialects.
 
 ### Steps
 #### Data exploring.
